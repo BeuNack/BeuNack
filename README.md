@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesco</h1>
-<h3 align="center">I'm a fail</h3>
+<h3 align="center">I'm a Student </h3>
 
 - 🌱 I’m currently learning **C++, Java, Python, JS**
 
